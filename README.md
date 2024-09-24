@@ -7,7 +7,8 @@
 ## font
 
 ### install font
-> scoop install JetBrainsMono
+> scoop bucket add nerd-fonts
+> scoop install JetBrainsMono-NF
 
 ### set font
 > ~\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json
